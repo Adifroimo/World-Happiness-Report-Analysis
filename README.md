@@ -1,4 +1,2 @@
-# World-happines-report-analysis 
-Hello friends !
-There is a cool visualization in the project, if you want to explore it you can see it through the link (unfortunately github does not support this library). 
-link : https://nbviewer.org/github/Adifroimo/World-happines-report-analysis/blob/main/Final.ipynb
+# Ladder Score Analysis
+This project uses statistical analysis and models to examine factors that may influence a country's Ladder score, a metric used by the World Happiness Report to measure subjective well-being. The analysis aims to identify which variables have a significant impact on Ladder score and explore potential relationships between these variables.
